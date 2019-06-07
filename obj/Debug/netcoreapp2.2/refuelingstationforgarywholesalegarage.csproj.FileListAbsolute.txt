@@ -1,0 +1,11 @@
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\obj\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.csprojAssemblyReference.cache
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\obj\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.csproj.CoreCompileInputs.cache
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\obj\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.AssemblyInfoInputs.cache
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\obj\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.AssemblyInfo.cs
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\bin\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.deps.json
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\bin\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.runtimeconfig.json
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\bin\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.runtimeconfig.dev.json
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\bin\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.dll
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\bin\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.pdb
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\obj\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.dll
+C:\Users\Alex\workspace\csharp\chap15\refuelingstationforgarywholesalegarage\obj\Debug\netcoreapp2.2\refuelingstationforgarywholesalegarage.pdb
